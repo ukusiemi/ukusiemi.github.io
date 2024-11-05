@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukusiemi.github.io/JTV/sitemap_index.txt
+Sitemap: https://ukusiemi.github.io/daX/sitemap_index.txt
+Sitemap: https://ukusiemi.github.io/rov/sitemap_index.txt
+Sitemap: https://ukusiemi.github.io/wlJ/sitemap_index.txt
